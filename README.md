@@ -10,3 +10,8 @@ To get started with the chatbot, please refer to the documentation in the wiki s
 
 ## Contributing
 If you're interested in contributing to the chatbot, please see the CONTRIBUTING.md file for guidelines.
+
+## Features
+* Automated support for tech-related inquiries
+* Basic troubleshooting assistance
+* Frequently asked questions support
