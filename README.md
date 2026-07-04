@@ -15,3 +15,6 @@ If you're interested in contributing to the chatbot, please see the CONTRIBUTING
 * Automated support for tech-related inquiries
 * Basic troubleshooting assistance
 * Frequently asked questions support
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
